@@ -1,4 +1,4 @@
-# Profile-README
+# Sobre mí
 Apasionado por los videojuegos y el mundo de la informática.
  
 Actualmente soy un estudiante de TI, por el momento enfocado al desarrollo web, pero interesado en aprender muchas otras tecnologías.
